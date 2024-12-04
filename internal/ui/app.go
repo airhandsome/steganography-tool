@@ -12,7 +12,7 @@ import (
 	"image"
 	"image/color"
 	"image/png"
-	steganography "steganography-tool/internal/steganography"
+	steganography "steganography-tool/internal/stegnaography"
 )
 
 type SteganoUI struct {
